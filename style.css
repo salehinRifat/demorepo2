@@ -6,4 +6,5 @@ div{
     color: #fff;
     line-height: 90px;
     font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid red;
 }
